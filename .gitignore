@@ -1,0 +1,16 @@
+################################################################################
+# This .gitignore file has the purpose of ignore undesired files from your push
+################################################################################
+
+*report.html
+*output.xml
+*log.html
+*.log
+*.pyc
+*.jpg
+*.png
+/Documentation
+.idea/
+*.code-workspace
+*env
+/venv/
